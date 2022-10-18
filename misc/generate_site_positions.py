@@ -53,6 +53,7 @@ def process_args(args):
     'DpnII'       : 'GATC',
     'MboI'        : 'GATC',
     'Sau3AI'      : 'GATC',
+    'Phase'.      : [ 'GATC' , 'CTNAG' , 'GANTC' , 'TTAA' ]
     'Arima'       : [ 'GATC', 'GANTC' ],
   }
 
